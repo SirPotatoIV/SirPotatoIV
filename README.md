@@ -1,7 +1,7 @@
 ### Hi there 👋
-I recently was certified in full-stack web development. I work as a learning assistant at a full-stack web development boot camp to help students on homework and projects via Zoom and Slack. I volunteer on a local political candidate's campaign team to keep their website up-to-date. Before my web dev life I worked in medical device engineering.
+I recently was certified in full-stack web development. By day I work as an Associate Software Engineer at Spok focused on front-end development utlizing React and TypeScript. By night I am a teaching assistant at a full-stack web development boot camp. I volunteer on a local political candidate's campaign team to keep their website up-to-date. Before my web dev life I worked in medical device engineering.
 
-- 🌱 I’m currently learning more about MongoDB through MongoDB University and brushing up on JS by reading Eloquent JavaScript by Marijn Haverbeke
+- 🌱 I’m currently learning more about Firebase and Cyrpess Testing
 - 😄 Pronouns: He / Him / His
 - ⚡ Fun fact: Outside of the digital world I enjoy playing the sport of Curling
 
